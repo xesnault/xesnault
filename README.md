@@ -1,1 +1,2 @@
 - :book: I made [SoftWiki](https://github.com/softwiki/softwiki-desktop), an open source wiki-like desktop application that uses markdown.  
+- :robot: Sometimes I make AIs using [my own **basic** neural network](https://github.com/xesnault/LearNN) ([Snake](https://github.com/xesnault/Fruit-Seeker), [Cars](https://github.com/xesnault/CarGenAI)).
